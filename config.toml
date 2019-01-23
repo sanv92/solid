@@ -1,0 +1,28 @@
+baseURL = "//localhost/solid"
+publishDir = "docs"
+
+languageCode = "en-us"
+title = "5 SOLID Principles of Object-oriented Design"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-learn"
+
+# For search functionnality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+description = "5 SOLID Principles of Object-oriented Design"
+disableLogo = true
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/SanderV1992"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20

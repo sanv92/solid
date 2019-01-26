@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ffadbf-031e-4bbc-a368-d417062d44c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/dip/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/dip/dip.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/isp/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/isp/isp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/lsp/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/lsp/lsp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/ocp/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/ocp/ocp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/solid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/srp/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/srp/srp.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs" beforeDir="false" afterPath="$PROJECT_DIR$/docs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,7 +35,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
+            <state relative-caret-position="71">
               <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
             </state>
           </provider>
@@ -223,16 +211,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547499150703</updated>
-      <workItem from="1547499151922" duration="10346000" />
+      <workItem from="1547499151922" duration="10593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10346000" />
+    <option name="totallyTimeSpent" value="10593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="788" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -240,7 +227,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.33045977" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6882184" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -491,7 +478,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
+        <state relative-caret-position="71">
           <caret line="40" column="64" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
         </state>
       </provider>

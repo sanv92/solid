@@ -32,3 +32,4 @@ pre = "<b>5. </b>"
 ---
 #### Read More:
 - https://github.com/SanderV1992/SOLID-examples/tree/master/src/dip/good
+- https://www.geeksforgeeks.org/dependecy-inversion-principle-solid/

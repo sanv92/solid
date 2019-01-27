@@ -30,3 +30,4 @@ The creation of the abstraction between different employees and Manager has resu
 ---
 #### Read More:
 - https://github.com/SanderV1992/SOLID-examples/tree/master/src/dip/good
+- https://www.geeksforgeeks.org/dependecy-inversion-principle-solid/

@@ -1,7 +1,8 @@
+DefaultContentLanguage = "en"
 baseURL = "//localhost/solid"
 publishDir = "docs"
 
-languageCode = "en-us"
+languageCode = "en-US"
 title = "5 SOLID Principles of Object-oriented Design"
 
 # Change the default theme to be use when building the site with Hugo
@@ -14,6 +15,7 @@ home = [ "HTML", "RSS", "JSON"]
 [params]
 description = "5 SOLID Principles of Object-oriented Design"
 disableLogo = true
+disableLanguageSwitchingButton = false
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-github'></i> Github repo"
@@ -26,3 +28,19 @@ name = "<i class='fa fa-bookmark'></i> Hugo Documentation"
 identifier = "hugodoc"
 url = "https://gohugo.io/"
 weight = 20
+
+# Languages
+[Languages]
+[Languages.ru]
+  weight = 0
+  languageName = "Russian"
+  languageIcon = "rus"
+  languageCode = "ru-RU"
+  url = "/ru/"
+
+[Languages.en]
+  weight = 1
+  languageName = "English"
+  languageIcon = "eng"
+  languageCode = "en-US"
+  url = "/en/"

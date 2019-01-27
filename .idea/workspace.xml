@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5ffadbf-031e-4bbc-a368-d417062d44c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/content/dip/_index.en.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/dip/_index.en.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/dip/_index.ru.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/dip/_index.ru.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/_index.ru.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.en.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs" beforeDir="false" afterPath="$PROJECT_DIR$/docs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,13 +30,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/dip/_index.ru.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="525">
                 <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/_index.ru.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/_index.en.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -125,12 +146,6 @@
               <item name="solid" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="solid" type="b2602c69:ProjectViewProjectNode" />
-              <item name="solid" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="dip" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -146,11 +161,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/content/dip" />
       <recent name="$PROJECT_DIR$/content/isp" />
       <recent name="$PROJECT_DIR$/content/lsp" />
       <recent name="$PROJECT_DIR$/content/ocp" />
-      <recent name="$PROJECT_DIR$/content/srp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1547499150703</updated>
       <workItem from="1547499151922" duration="12736000" />
-      <workItem from="1548551814966" duration="11570000" />
+      <workItem from="1548551814966" duration="11878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24306000" />
+    <option name="totallyTimeSpent" value="24614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="6" />
@@ -211,16 +226,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/static/css/theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9121">
-          <caret line="903" column="1" selection-start-line="903" selection-start-column="1" selection-end-line="903" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/static/css/theme-blue.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-theme-learn/static/css/theme-green.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -231,16 +236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="619">
           <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -535,6 +530,32 @@
           <first_editor relative-caret-position="525">
             <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index.ru.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index.en.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
